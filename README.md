@@ -92,7 +92,7 @@ Like nature as human, every attack has __Signal source__ which categorized as
 3.	AI can use query-based hunting  to create customize rules and actions.
 
 ## Team work
- Thirty winters of network enemy is almost the same, if we lacked behind them one step, we were the looser. Network system is system of networks that needs skilled networking, system administration, application and network policy team to acting like Silicon Velley Bank solved by three pillars of finacial officers in US on Sunday afternoon since Thursday bank announcement. They need collective monitor, active and aggressive executor team who are like them in the opposite goals. Lastly, last resource, several copies of offline backups in secured place.
+ Thirty winters of network enemy is almost the same, if we lacked behind them one step, we were the looser. Network system is system of networks that needs skilled networking, system administration, application and network policy team to acting like Silicon Velley Bank solved by three pillars of finacial officers in US on Sunday afternoon since Wednesday bank announcement. They need collective monitor, active and aggressive executor team who are like them in the opposite goals. Lastly, last resource, several copies of offline backups in secured place.
  
 ## Now what?
 If your team can access to some _proactive scanning_ and _alert system_ for ransomware collaborative hunting global team such as Microsoft 365 defender portal and Future US LLC [2]. 
