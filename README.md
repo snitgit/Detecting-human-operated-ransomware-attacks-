@@ -64,7 +64,7 @@ This is the note for reminding ourselves about advanced in security attacks, _Hu
 
 •	Threat of public leakage of exfiltrated, sensitive data
 
-If we don’t have __Proactive detection__ as mention in early state , it will destroy your organization  assets, data and operations.
+If we don’t have __Proactive detection__ as mention in early stage , it will destroy your organization  assets, data and operations.
 https://learn.microsoft.com/en-us/microsoft-365/media/defender/playbook-detecting-ransomware-m365-defender-qualitative-diagram.png?view=o365-worldwide
 
 ## What have we must learn and to learn to monitor our assets?
@@ -95,8 +95,9 @@ Like nature as human, every attack has __Signal source__ which categorized as
  Thirty winters of network enemy is almost the same, if we lacked behind them one step, we were the looser. Network system is system of networks that needs skilled networking, system administration, application and network policy team to acting like Silicon Velley Bank solved by three pillars of finacial officers in US on Sunday afternoon since Thursday bank announcement. They need collective monitor, active and aggressive executor team who are like them in the opposite goals.  
  
 ## Now what?
-If your team can access to some _proactive scanning_ and _alert system_ for ransomware collaborative hunting global team such as Microsoft 365 defender portal. 
+If your team can access to some _proactive scanning_ and _alert system_ for ransomware collaborative hunting global team such as Microsoft 365 defender portal and Future US LLC [2]. 
 Hopping that we will see Incident alert sources, advanced hunting tools _enabled_ for network community. 
 
 References:
 1.	Microsoft , ‘Detecting human-operated ransomware attacks with Microsoft 365 Defender ‘, March 14, 2023, https://learn.microsoft.com/en-us/microsoft-365/security/defender/playbook-detecting-ransomware-m365-defender?view=o365-worldwide, accessed time March 18, 2023.
+2. Future US LLC, 'Threat Hunting For Ransomware', https://ransomware.org/how-to-prevent-ransomware/threat-hunting/threat-hunting-for-ransomware/,  accessed time March 18, 2023.
