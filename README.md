@@ -67,7 +67,7 @@ This is the note for reminding myself about advanced in security networked attac
 If we don’t have __Proactive detection__ as mention in early stage , it will destroy your organization  assets, data and operations.
 https://learn.microsoft.com/en-us/microsoft-365/media/defender/playbook-detecting-ransomware-m365-defender-qualitative-diagram.png?view=o365-worldwide
 
-## What have we must learn and to learn to monitor our assets?
+## What have we must learn and looking for?
 
 Like nature as human, every attack has __Signal source__ which categorized as 
 
