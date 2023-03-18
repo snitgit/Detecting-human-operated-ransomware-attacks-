@@ -1,4 +1,4 @@
-# Detecting human operated ransomware attacks and hunt
+# Detecting human operated ransomware attacks and Hunt Them Down
 This is the note for reminding myself about advanced in security networked attacks, _Human-operated ransomware_, which is coordinated and a planned attack by network enemy, not network academy. They employ multiple attack methods such as [1].
 
 #### Initial access:
