@@ -96,7 +96,7 @@ Like nature as human, every attack has __Signal source__ which categorized as
  
 ## Now what?
 If your team can access to some _proactive scanning_ and _alert system_ for ransomware collaborative hunting global team such as Microsoft 365 defender portal and Future US LLC [2]. 
-Hopping that we will see Incident alert sources, advanced hunting tools _enabled_ for network community. Finally, *Hunting Them Down* is our challenge. So let "proactively searching through logs, endpoints, NetFlow traffic, DNS data, and any other security source for malicious activity on the network that may not be detected by existing security tools. Threat hunting is the first step in a process. It has to be integrated into the regular security workflow"[2].
+Hopping that we will see Incident alert sources, advanced hunting tools _enabled_ for network community. Finally, *Hunting Them Down* is our challenge. So let "proactively searching through logs, endpoints, __NetFlow traffic__, DNS data, and any other security source for __malicious activity on the network that may not be detected by existing security tools__. Threat hunting is the first step in a process. It has to be integrated into the regular security workflow"[2].
 
 References:
 1.	Microsoft , ‘Detecting human-operated ransomware attacks with Microsoft 365 Defender ‘, March 14, 2023, https://learn.microsoft.com/en-us/microsoft-365/security/defender/playbook-detecting-ransomware-m365-defender?view=o365-worldwide, accessed time March 18, 2023.
